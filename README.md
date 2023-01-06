@@ -1,5 +1,5 @@
 
-<h1 align="center">##Hi there👋, I'm Harshini Donepudi</h1>
+<h1 align="center">Hi there👋, I'm Harshini Donepudi</h1>
 <h3 align="center">A passionate Android Developer and Machine Learning Enthusiast for problems in Healthcare</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshinidonepudi" alt="harshinidonepudi" /></a> </p>
