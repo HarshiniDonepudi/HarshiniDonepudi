@@ -29,4 +29,4 @@
 
 <p><img align="left" width="475" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshinidonepudi&show_icons=true&locale=en&layout=compact" alt="harshinidonepudi" /></p>
 
-<p>&nbsp;<img align="center" width="450" height="450"src="https://github-readme-stats.vercel.app/api?username=harshinidonepudi&show_icons=true&locale=en" alt="harshinidonepudi"/></p>
+<p>&nbsp;<img align="center" width="450" height="400"src="https://github-readme-stats.vercel.app/api?username=harshinidonepudi&show_icons=true&locale=en" alt="harshinidonepudi"/></p>
