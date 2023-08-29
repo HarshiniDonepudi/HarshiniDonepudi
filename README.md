@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **data**
 
-- 📫 How to reach me **harshinidonepudi03@gmail.com**
+- 📫 How to reach me **hsd39@cornell.edu** or **harshinidonepudi03@gmail.com**
 
 - ⚡ Fun fact **my passion is to come up with creative solutions for social causes and I speak through my art**
 
